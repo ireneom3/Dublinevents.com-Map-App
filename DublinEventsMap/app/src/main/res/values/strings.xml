@@ -1,6 +1,19 @@
 <resources>
-    <string name="app_name">Dublin Events Map</string>
+    <string name="app_name">DublinEvents</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="find_prompt">Find</string>
+
+    <string-array name="find_arrays">
+        <item>Hotels</item>
+        <item>Car Hire Dublin</item>
+        <item>Food and Drink</item>
+        <item>Events</item>
+        <item>Entertainment Dublin</item>
+        <item>Tourist Information</item>
+        <item>Deals and Competition</item>
+        <item>Explore Ireland</item>
+    </string-array>
+
+
     <string name="action_settings">Settings</string>
 </resources>
